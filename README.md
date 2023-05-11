@@ -1,3 +1,2 @@
 # Python_beginner
-Vazifalar
-Pytonda tayorralagan darslarim
+Pythonda tayorralagan darslarim
